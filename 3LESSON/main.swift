@@ -156,3 +156,4 @@ xuy(num: Int(num3!) ?? 0)
 
 print(A1)
 print(B1)
+12
